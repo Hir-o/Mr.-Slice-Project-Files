@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Projectile
+  - Hazard
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Obstacle
+  - Character
+  - Anchors
+  - Enemy
+  - Ground
+  - Player
+  - Projectile
+  - DisabledEnemies
+  - Hazard
+  - Collectable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Enemy
+    uniqueID: 3663741071
+    locked: 0
+  - name: Player
+    uniqueID: 2463650919
+    locked: 0
+  - name: Ground
+    uniqueID: 1042491307
+    locked: 0
+  - name: Collectible
+    uniqueID: 2083707851
+    locked: 0
+  - name: Particles
+    uniqueID: 2957169369
+    locked: 0
+  - name: UI
+    uniqueID: 4012623425
+    locked: 0

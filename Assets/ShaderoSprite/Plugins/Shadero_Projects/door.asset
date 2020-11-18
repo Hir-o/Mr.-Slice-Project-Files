@@ -1,0 +1,261 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8173917811850757195
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4caff27366054dd44a30ddb5be369acc, type: 3}
+  m_Name: UV
+  m_EditorClassIdentifier: 
+  body: {fileID: -4127028913824996084}
+  side: 4
+  sidePosition: 53
+  sideOffset: 0
+  connection: {fileID: 0}
+  typeID: SuperFloat2
+--- !u!114 &-7239943064195489442
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4caff27366054dd44a30ddb5be369acc, type: 3}
+  m_Name: RGBA
+  m_EditorClassIdentifier: 
+  body: {fileID: -5857246868938094678}
+  side: 4
+  sidePosition: 53
+  sideOffset: 0
+  connection: {fileID: -1034573281987802002}
+  typeID: SuperFloat4
+--- !u!114 &-5857246868938094678
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da0a24bab1293f04d997dae2ec51c468, type: 3}
+  m_Name: Build Shader
+  m_EditorClassIdentifier: 
+  rect:
+    serializedVersion: 2
+    x: -158.5
+    y: -281.5
+    width: 400
+    height: 520
+  nodeKnobs:
+  - {fileID: -7239943064195489442}
+  Inputs:
+  - {fileID: -7239943064195489442}
+  Outputs: []
+  BuildErrorFlag: 0
+  BuildLightningSupport: 0
+--- !u!114 &-5402360167344374334
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42e7026d0da7df848ab67d517ac12d74, type: 3}
+  m_Name: Source
+  m_EditorClassIdentifier: 
+  body: {fileID: -2792897510599162793}
+  side: 2
+  sidePosition: 53
+  sideOffset: 0
+  connections: []
+  typeID: SuperSource
+  calculationBlockade: 0
+--- !u!114 &-4127028913824996084
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90ec3a51e031a9f42a8eeb9d470525f6, type: 3}
+  m_Name: Main Texture
+  m_EditorClassIdentifier: 
+  rect:
+    serializedVersion: 2
+    x: -1049.3
+    y: -261.69998
+    width: 148
+    height: 215
+  nodeKnobs:
+  - {fileID: -8173917811850757195}
+  - {fileID: -3092552849599002598}
+  Inputs:
+  - {fileID: -8173917811850757195}
+  Outputs:
+  - {fileID: -3092552849599002598}
+  Variable: _MainTex_
+  MemoCount: 1
+--- !u!114 &-3092552849599002598
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42e7026d0da7df848ab67d517ac12d74, type: 3}
+  m_Name: RGBA
+  m_EditorClassIdentifier: 
+  body: {fileID: -4127028913824996084}
+  side: 2
+  sidePosition: 53
+  sideOffset: 0
+  connections:
+  - {fileID: 6467995371841495400}
+  typeID: SuperFloat4
+  calculationBlockade: 0
+--- !u!114 &-2792897510599162793
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cdffb63edcd8c2a42830327e426a6415, type: 3}
+  m_Name: Source Main Texture
+  m_EditorClassIdentifier: 
+  rect:
+    serializedVersion: 2
+    x: -1886.3
+    y: -149.5
+    width: 148
+    height: 210
+  nodeKnobs:
+  - {fileID: -5402360167344374334}
+  Inputs: []
+  Outputs:
+  - {fileID: -5402360167344374334}
+--- !u!114 &-1034573281987802002
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42e7026d0da7df848ab67d517ac12d74, type: 3}
+  m_Name: RGBA
+  m_EditorClassIdentifier: 
+  body: {fileID: 9124705520919690050}
+  side: 2
+  sidePosition: 103
+  sideOffset: 0
+  connections:
+  - {fileID: -7239943064195489442}
+  typeID: SuperFloat4
+  calculationBlockade: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e0c2324a9ab1224ebe3edad393e3544, type: 3}
+  m_Name: door
+  m_EditorClassIdentifier: 
+  nodes:
+  - {fileID: -5857246868938094678}
+  - {fileID: -2792897510599162793}
+  - {fileID: -4127028913824996084}
+  - {fileID: 9124705520919690050}
+  editorStates:
+  - {fileID: 1901508807516219471}
+  livesInScene: 0
+--- !u!114 &1901508807516219471
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6ab6487237ff124ea4c2aa5de9ce3fb, type: 3}
+  m_Name: MainEditorState
+  m_EditorClassIdentifier: 
+  canvas: {fileID: 11400000}
+  parentEditor: {fileID: 0}
+  drawing: 1
+  selectedNode: {fileID: 9124705520919690050}
+  LivePreviewShaderPath: Assets/Prefabs/Shadero Sprite Materials/door.shader
+  ShaderName: door
+  ShaderInMemory: {fileID: 4800000, guid: 37c12532fe0169642ac80fa0f3156a76, type: 3}
+  panOffset: {x: 343.80014, y: 61.600014}
+  zoom: 1.8
+--- !u!114 &6467995371841495400
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4caff27366054dd44a30ddb5be369acc, type: 3}
+  m_Name: RGBA
+  m_EditorClassIdentifier: 
+  body: {fileID: 9124705520919690050}
+  side: 4
+  sidePosition: 103
+  sideOffset: 0
+  connection: {fileID: -3092552849599002598}
+  typeID: SuperFloat4
+--- !u!114 &9124705520919690050
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ba85f3efcdcc284fa71bce404eb9319, type: 3}
+  m_Name: Color HSV
+  m_EditorClassIdentifier: 
+  rect:
+    serializedVersion: 2
+    x: -670
+    y: -330
+    width: 172
+    height: 300
+  nodeKnobs:
+  - {fileID: 6467995371841495400}
+  - {fileID: -1034573281987802002}
+  Inputs:
+  - {fileID: 6467995371841495400}
+  Outputs:
+  - {fileID: -1034573281987802002}
+  Variable: 148.909
+  Variable2: 1
+  Variable3: 1
+  parametersOK: 1
+  MemoCount: 1

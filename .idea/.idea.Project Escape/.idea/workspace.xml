@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="12b4a220-9f12-41ea-ae99-232f8205f86a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Imported Assets/IndieMarc/EnemyVision/Scripts/Enemy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Imported Assets/FunkyCode/SmartSlicer2D/Components/Slicer2D.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Key.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Imported Assets/IndieMarc/EnemyVision/Demo/Scripts/EnemyDemo2D.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Imported Assets/IndieMarc/EnemyVision/Scripts/EnemyFollow2D.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SlicedPartDestroyer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Imported Assets/CodeMonkey/Utils/UtilsClass.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Imported Assets/IndieMarc/EnemyVision/Scripts/Enemy2D.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Float.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Ground.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Imported Assets/IndieMarc/EnemyVision/Scripts/EnemyPatrol2D.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Imported Assets/IndieMarc/EnemyVision/Scripts/EnemyLOS2D.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EnemyColor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Sword.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Imported Assets/IndieMarc/EnemyVision/Scripts/VisionTarget.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Imported Assets/IndieMarc/EnemyVision/Scripts/EnemyVision2D.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Imported Assets/SoundManager/Demo/SoundManagerDemo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AudioController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Splash.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CanvasCameraAttacher.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Imported Assets/FunkyCode/SmartUtilities2D/Scripts/Utilities/VirtualSpriteRenderer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraShaker.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ColorController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Imported Assets/FunkyCode/SmartUtilities2D/Scripts/Utilities/Particle2D.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Imported Assets/FunkyCode/SmartUtilities2D/Scripts/Utilities/Pair2D.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AnimatorParam.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.universal@7.1.6/Runtime/UniversalRenderPipeline.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AnimatorParams.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Options.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Imported Assets/FunkyCode/SmartUtilities2D/Scripts/Graphics/Max2DMesh.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MovementEvents.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ObjectHolder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Downloads/EnemyPatrol2D.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MovementEventSubscriber.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Downloads/EnemyPatrol2D(1).cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DashRadius.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameCanvas.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Imported Assets/FunkyCode/SmartSlicer2D/Scripts/Linear/LinearSlicerTrail.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GfxParent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Projectile.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/LevelController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EnemyWeapon.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Door.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/LevelRules.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/LevelButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/LineDrawer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Imported Assets/FunkyCode/SmartSlicer2D/Components/Slicer2DParticles.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Imported Assets/FunkyCode/SmartSlicer2D/Components/Slicer2DController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EnemyDie.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Imported Assets/FunkyCode/SmartSlicer2D/Components/Slicer2DSound.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Imported Assets/FunkyCode/SmartSlicer2D/Components/Slicer2DParticlesManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Imported Assets/FunkyCode/SmartUtilities2D/Scripts/Triangulation/Advanced Triangulator/PolygonUtility.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MovementSubscriber.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Movement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DashRadius.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AnimatorParam.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GfxParent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SliceParticles.cs" />
+        <option value="$PROJECT_DIR$/Assets/Imported Assets/FunkyCode/SmartUtilities2D/Scripts/Utilities/Particle2D.cs" />
+        <option value="$PROJECT_DIR$/Assets/Imported Assets/CodeMonkey/Utils/UtilsClass.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FieldOfView.cs" />
+        <option value="$PROJECT_DIR$/Assets/FieldOfView/Scripts/FieldOfView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Imported Assets/FunkyCode/SmartSlicer2D/Components/Slicer2DController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Imported Assets/FunkyCode/SmartSlicer2D/Components/Slicer2D.cs" />
+        <option value="$PROJECT_DIR$/Assets/Imported Assets/IndieMarc/EnemyVision/Demo/Scripts/EnemyDemo2D.cs" />
+        <option value="$PROJECT_DIR$/Assets/Imported Assets/IndieMarc/EnemyVision/Scripts/EnemyLOS2D.cs" />
+        <option value="$PROJECT_DIR$/Assets/Imported Assets/IndieMarc/EnemyVision/Scripts/EnemyPatrol2D.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Rigidbody2DExtension.cs" />
+        <option value="$PROJECT_DIR$/Assets/Imported Assets/IndieMarc/EnemyVision/Scripts/Enemy2D.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ObjectHolder.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AnimatorParams.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Door.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CanvasCameraAttacher.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LineDrawer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CameraShaker.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnemyColor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnemyDie.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SlicedPartDestroyer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Soul.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ColorController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Splash.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Options.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Key.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Sword.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LevelButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Projectile.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AudioController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LevelRules.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LevelController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MovementEventSubscriber.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameCanvas.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnemyWeapon.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MovementEvents.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Float.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Ground.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gujTUAUpm5ZmvaI0bnxvbvUkpM" />
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12b4a220-9f12-41ea-ae99-232f8205f86a" name="Default Changelist" comment="" />
+      <created>1598971384153</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598971384153</updated>
+      <workItem from="1598971396398" duration="8031000" />
+      <workItem from="1599036821254" duration="12113000" />
+      <workItem from="1599126578657" duration="11196000" />
+      <workItem from="1599216297756" duration="596000" />
+      <workItem from="1599642531659" duration="600000" />
+      <workItem from="1599734996653" duration="6682000" />
+      <workItem from="1599757414725" duration="1875000" />
+      <workItem from="1599841360314" duration="3831000" />
+      <workItem from="1599904856197" duration="9229000" />
+      <workItem from="1599988883666" duration="4896000" />
+      <workItem from="1600088367174" duration="7998000" />
+      <workItem from="1600171894925" duration="1603000" />
+      <workItem from="1600270324831" duration="750000" />
+      <workItem from="1600287415519" duration="263000" />
+      <workItem from="1600334142579" duration="16646000" />
+      <workItem from="1600425184593" duration="15953000" />
+      <workItem from="1600790993535" duration="4600000" />
+      <workItem from="1600858108478" duration="2348000" />
+      <workItem from="1601026134134" duration="7563000" />
+      <workItem from="1601117109831" duration="459000" />
+      <workItem from="1601291882027" duration="2939000" />
+      <workItem from="1601462218919" duration="10390000" />
+      <workItem from="1601554281513" duration="4482000" />
+      <workItem from="1601640029188" duration="1194000" />
+      <workItem from="1602086540869" duration="375000" />
+      <workItem from="1602115202987" duration="1247000" />
+      <workItem from="1602184910120" duration="637000" />
+      <workItem from="1602776955891" duration="1163000" />
+      <workItem from="1603130476318" duration="5543000" />
+      <workItem from="1603197759578" duration="8727000" />
+      <workItem from="1603371726452" duration="4083000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
